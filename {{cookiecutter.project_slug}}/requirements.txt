@@ -1,4 +1,6 @@
-hydra-core>=1.1.0
 numpy>=1.19.5
 pandas>=1.1.5
 torch==1.9.0
+{% if cookiecutter.hydra|int -%}
+hydra-core>=1.1.0
+{% endif %}

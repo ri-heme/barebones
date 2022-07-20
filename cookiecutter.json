@@ -1,4 +1,4 @@
 {
-    "project_slug": "All-lowercase no-spaces project name",
-    "python_version": "Minimum Python version"
+    "project_slug": "all-lowercase no-spaces project name",
+    "hydra": "Type 0 or 1 to use Hydra for configuration management"
 }
