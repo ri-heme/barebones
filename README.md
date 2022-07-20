@@ -8,7 +8,7 @@ Numpy, Pandas, and (optionally) Hydra.
 ## How to Use
 
 Install [cookiecutter](https://cookiecutter.readthedocs.io/en/stable/),
-navigate to the directory where you will have the new project, and type on the 
+navigate to the directory where the new project is created, and type on the 
 command line:
 
 ```
